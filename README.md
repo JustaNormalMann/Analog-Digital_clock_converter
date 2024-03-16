@@ -19,3 +19,5 @@ Before starting make sure you point to the picture of the clock in the correct p
 
 1. When the program runs the clock image which is pointed to will pop up in a window and the **user has to click in the clock's center point**.
 2. After the user has clicked the center point of the clock two new windows will appear which shows were the program predicts the clock hands are and the predicted time (the previous window of the clock will disappear).
+
+An example image is added and is called "live.jpg".
