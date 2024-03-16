@@ -1,4 +1,4 @@
-# Analog-Digiatl clock converter
+# Analog-Digital clock converter
 This code converts an image of an analog clock to a digital clock.
 
 
