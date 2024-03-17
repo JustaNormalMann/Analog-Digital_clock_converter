@@ -89,7 +89,6 @@ while exit_loop == False:
     #------------------------------------------------------------------------
     _, thresh = cv2.threshold(crop, 50, 255, cv2.THRESH_BINARY)
     gaussian = cv2.GaussianBlur(thresh, (9, 9), 0)
-    #    cv2.imshow("BLUR", gaussian)
 
     #------------------------------------------------------------------------
     # Edge detection with Canny
