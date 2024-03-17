@@ -61,7 +61,7 @@ while exit_loop == False:
     #------------------------------------------------------------------------
     # Reads the image from the users location and shows it to the user
     #------------------------------------------------------------------------
-    image = cv2.imread(r'C:\Users\herma\Desktop\Skole\Bildebehandling/live.jpg')
+    image = cv2.imread(r'C:\Users\herma\Desktop\Bildebehandling/live.jpg')
     cv2.imshow('Image', image)
 
     #------------------------------------------------------------------------
